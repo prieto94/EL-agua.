@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605041730113LTIBC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050417301173JFZI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EL TESORO MÁS VALIOSO DEL PLANETA TIERRA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Dolores Prieto Huertas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto elaborado para el curso Competencia Digital Docente B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777903944128</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777899505711-xwdi0c620</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EL TESORO MÁS VALIOSO DEL PLANETA TIERRA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL TESORO MÁS VALIOSO DEL PLANETA TIERRA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777899505711-xwdi0c620</odePageId>
+      <odeBlockId>block-1777899874353-aq85jeawu</odeBlockId>
+      <blockName>EL AGUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777899505711-xwdi0c620</odePageId>
+          <odeBlockId>block-1777899874353-aq85jeawu</odeBlockId>
+          <odeIdeviceId>idevice-1777899874350-4bt1mu49l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El agua es un elemento fundamental en la vida cotidiana y una temática que despierta gran curiosidad en el alumnado de Educación Infantil. Por este motivo, se ha diseñado el proyecto "<strong>El agua</strong>", dirigido a niños y niñas de 4 años. </p>
+<p>En este espacio se recogen todas la tareas desarrolladas dentro del curso de Competencia Digital Docente, nivel B2, orientadas a la puesta en práctica de este proyecto. </p>
+<p>En cada módulo se incluye una breve descripción de la tarea realiza, así como las actividades propuestas, adaptadas a la edad del alumnado. </p>
+<p>Espero que el material os resulte interesante, y sobre todo, útil para vuestra práctica educativa. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777899874350-4bt1mu49l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El agua es un elemento fundamental en la vida cotidiana y una temática que despierta gran curiosidad en el alumnado de Educación Infantil. Por este motivo, se ha diseñado el proyecto \"<strong>El agua</strong>\", dirigido a niños y niñas de 4 años. </p>\n<p>En este espacio se recogen todas la tareas desarrolladas dentro del curso de Competencia Digital Docente, nivel B2, orientadas a la puesta en práctica de este proyecto. </p>\n<p>En cada módulo se incluye una breve descripción de la tarea realiza, así como las actividades propuestas, adaptadas a la edad del alumnado. </p>\n<p>Espero que el material os resulte interesante, y sobre todo, útil para vuestra práctica educativa. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777900326169-84dxkd19l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 1: Metodologías activas y Competencia Digital del alumnado. </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 1: Metodologías activas y Competencia Digital del alumnado. </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777900326169-84dxkd19l</odePageId>
+      <odeBlockId>block-1777900401868-y27geqend</odeBlockId>
+      <blockName>Tarea 1.1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777900326169-84dxkd19l</odePageId>
+          <odeBlockId>block-1777900401868-y27geqend</odeBlockId>
+          <odeIdeviceId>idevice-1777900401864-ox22ccph2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este primer módulo, la actividad a realizar era una <b> rutina de pensamiento </b>con el módulo reflexivo de Gibbs, en la cual se valora todo nuestro proyecto. </p>
+<p>El objetivo de la tarea era abordar los problemas técnicos y pedagógicos que tienen lugar cuando se llevan a cabo actividades que requieran implementar metodologías activas y nuevas tecnologías con el alumnado. Esta tarea cuenta con cinco apartados: descripción, sentimientos, evaluación, análisis y conclusión. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777900401864-ox22ccph2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este primer módulo, la actividad a realizar era una <b> rutina de pensamiento </b>con el módulo reflexivo de Gibbs, en la cual se valora todo nuestro proyecto. </p>\n<p>El objetivo de la tarea era abordar los problemas técnicos y pedagógicos que tienen lugar cuando se llevan a cabo actividades que requieran implementar metodologías activas y nuevas tecnologías con el alumnado. Esta tarea cuenta con cinco apartados: descripción, sentimientos, evaluación, análisis y conclusión. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777900807264-7fmx44ydz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 2: Recursos Educativos Abiertos. Licencias y Seguridad. </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 2: Recursos Educativos Abiertos. Licencias y Seguridad. </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777900807264-7fmx44ydz</odePageId>
+      <odeBlockId>block-1777900831887-z33d7dioc</odeBlockId>
+      <blockName>Tarea 2.1. Comenzamos nuestro proyecto.</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777900807264-7fmx44ydz</odePageId>
+          <odeBlockId>block-1777900831887-z33d7dioc</odeBlockId>
+          <odeIdeviceId>idevice-1777900831883-ow7pjlwms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad tendrás que decidir el <strong>proyecto</strong> que vas a realizar para el producto final. </p>
+<p>En el siguiente <a href="https://view.genially.com/69d6819c21445ccddc9f803f" title="">enlace</a> encontrarás la información correspondiente. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777900831883-ow7pjlwms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad tendrás que decidir el <strong>proyecto</strong> que vas a realizar para el producto final. </p>\n<p>En el siguiente <a href=\"https://view.genially.com/69d6819c21445ccddc9f803f\" title=\"\">enlace</a> encontrarás la información correspondiente. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777900807264-7fmx44ydz</odePageId>
+      <odeBlockId>block-1777901070982-lrs8wwe0m</odeBlockId>
+      <blockName>Tarea 2.2. Localizo a ABP</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777900807264-7fmx44ydz</odePageId>
+          <odeBlockId>block-1777901070982-lrs8wwe0m</odeBlockId>
+          <odeIdeviceId>idevice-1777901070978-c95pdlln6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta actividad consiste en realizar una <strong>búsqueda de un ABP o un REA </strong>cualquiera que nos sirva de inspiración para nuestro producto final. Para ello, seguimos como guía este <a href="https://descargas.intef.es/recursos_educativos/RED_ES/01_Infantil/2/I_2_002_2025_0017/index.html" title="">REA</a>, el cual incluye una SDA titulada "Nos lavamos las manos". Esta ofrece un enfoque integral y significativo el aprendizaje, promoviendo hábitos saludables y el desarrollo competencial desde edades tempranas. </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777901070978-c95pdlln6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta actividad consiste en realizar una <strong>búsqueda de un ABP o un REA </strong>cualquiera que nos sirva de inspiración para nuestro producto final. Para ello, seguimos como guía este <a href=\"https://descargas.intef.es/recursos_educativos/RED_ES/01_Infantil/2/I_2_002_2025_0017/index.html\" title=\"\">REA</a>, el cual incluye una SDA titulada \"Nos lavamos las manos\". Esta ofrece un enfoque integral y significativo el aprendizaje, promoviendo hábitos saludables y el desarrollo competencial desde edades tempranas. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777900807264-7fmx44ydz</odePageId>
+      <odeBlockId>block-1777901808462-ae17ckiqy</odeBlockId>
+      <blockName>Tarea 2.3. Licencias y Seguridad</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777900807264-7fmx44ydz</odePageId>
+          <odeBlockId>block-1777901808462-ae17ckiqy</odeBlockId>
+          <odeIdeviceId>idevice-1777901808459-2cfel62ra</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente <a href="https://view.genially.com/69d6aa4b49baaac6ab883781" title="">enlace</a> podrás acceder a la <strong>infografía </strong>que se ha realizado, en la cual recojo los principales ítems a tener en cuenta a la hora de utilizar las nuevas tecnologías. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777901808459-2cfel62ra","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente <a href=\"https://view.genially.com/69d6aa4b49baaac6ab883781\" title=\"\">enlace</a> podrás acceder a la <strong>infografía </strong>que se ha realizado, en la cual recojo los principales ítems a tener en cuenta a la hora de utilizar las nuevas tecnologías. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777902096749-yvdbgaxbo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 3: Herramientas de comunicación. </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 3: Herramientas de comunicación. </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777902096749-yvdbgaxbo</odePageId>
+      <odeBlockId>block-1777902149787-ogvh1e6bj</odeBlockId>
+      <blockName>3.1. Herramientas de comunicación</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777902096749-yvdbgaxbo</odePageId>
+          <odeBlockId>block-1777902149787-ogvh1e6bj</odeBlockId>
+          <odeIdeviceId>idevice-1777902149781-q296h6a5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este bloque se propone una actividad en la que <strong>debes asesorar y dar apoyo a un compañero sobre las diferentes herramientas de comunicación</strong>, abordando los puntos negativos que se puedan considerar y argumentando el uso de la herramienta elegida. El análisis que llevé a cabo es el siguiente:</p>
+<p><em>Estimado Gonzalo:</em></p>
+<p><em>En primer lugar, quisiera trasladarle mi enhorabuena por su reciente incorporación al cargo de dirección. Aunque no tengo experiencia formando parte de un equipo directivo, actualmente soy tutora del aula de 4 años de Educación Infantil en mi centro. Tras revisar su propuesta, me gustaría compartir mi opinión acerca de los canales de comunicación que se están empleando durante este curso escolar, por si pudieran resultarle de utilidad.</em></p>
+<p><em>En lo referente a la comunicación con el profesorado, WhatsApp puede considerarse una herramienta ágil, aunque presenta ciertas limitaciones, como la escasa privacidad o la acumulación de mensajes poco relevantes, además de su carácter informal. Como alternativa, podría valorarse el uso de listas de difusión para que el equipo directivo transmita información relevante de forma más organizada. Asimismo, los grupos reducidos por niveles podrían facilitar la coordinación, siempre que exista acuerdo entre los docentes implicados. Aun así, lo más recomendable sería priorizar un canal oficial como Séneca.</em></p>
+<p><em>Por otro lado, en cuanto a la comunicación con el alumnado, Moodle puede ser una opción interesante, aunque conviene adaptarla al contexto. En el caso de alumnado de menor edad, como ocurre en mi aula, resulta más adecuado el uso de iPasen, siempre con la supervisión de un adulto, ya que permite registrar las comunicaciones de manera oficial. Para la gestión de tareas, la plataforma Google Classroom también resulta muy práctica, puesto que el alumnado accede mediante su cuenta corporativa personal con dominio @g.educaand.es.</em></p>
+<p><em>Finalmente, en relación con la comunicación entre el profesorado y las familias, considero que cada docente puede optar por el medio que mejor se adapte a sus necesidades. Desde mi punto de vista, iPasen vuelve a ser la opción más adecuada, ya que las familias están familiarizadas con esta herramienta y facilita una comunicación rápida y eficaz. Además, permite enviar mensajes tanto de forma individual como colectiva, así como justificar ausencias adjuntando la documentación correspondiente.</em></p>
+<p><em>Quedo a su disposición para cualquier cuestión que considere necesaria.</em></p>
+<p><em>Reciba un cordial saludo,</em></p>
+<p><em>Dolores</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777902149781-q296h6a5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este bloque se propone una actividad en la que <strong>debes asesorar y dar apoyo a un compañero sobre las diferentes herramientas de comunicación</strong>, abordando los puntos negativos que se puedan considerar y argumentando el uso de la herramienta elegida. El análisis que llevé a cabo es el siguiente:</p>\n<p><em>Estimado Gonzalo:</em></p>\n<p><em>En primer lugar, quisiera trasladarle mi enhorabuena por su reciente incorporación al cargo de dirección. Aunque no tengo experiencia formando parte de un equipo directivo, actualmente soy tutora del aula de 4 años de Educación Infantil en mi centro. Tras revisar su propuesta, me gustaría compartir mi opinión acerca de los canales de comunicación que se están empleando durante este curso escolar, por si pudieran resultarle de utilidad.</em></p>\n<p><em>En lo referente a la comunicación con el profesorado, WhatsApp puede considerarse una herramienta ágil, aunque presenta ciertas limitaciones, como la escasa privacidad o la acumulación de mensajes poco relevantes, además de su carácter informal. Como alternativa, podría valorarse el uso de listas de difusión para que el equipo directivo transmita información relevante de forma más organizada. Asimismo, los grupos reducidos por niveles podrían facilitar la coordinación, siempre que exista acuerdo entre los docentes implicados. Aun así, lo más recomendable sería priorizar un canal oficial como Séneca.</em></p>\n<p><em>Por otro lado, en cuanto a la comunicación con el alumnado, Moodle puede ser una opción interesante, aunque conviene adaptarla al contexto. En el caso de alumnado de menor edad, como ocurre en mi aula, resulta más adecuado el uso de iPasen, siempre con la supervisión de un adulto, ya que permite registrar las comunicaciones de manera oficial. Para la gestión de tareas, la plataforma Google Classroom también resulta muy práctica, puesto que el alumnado accede mediante su cuenta corporativa personal con dominio @g.educaand.es.</em></p>\n<p><em>Finalmente, en relación con la comunicación entre el profesorado y las familias, considero que cada docente puede optar por el medio que mejor se adapte a sus necesidades. Desde mi punto de vista, iPasen vuelve a ser la opción más adecuada, ya que las familias están familiarizadas con esta herramienta y facilita una comunicación rápida y eficaz. Además, permite enviar mensajes tanto de forma individual como colectiva, así como justificar ausencias adjuntando la documentación correspondiente.</em></p>\n<p><em>Quedo a su disposición para cualquier cuestión que considere necesaria.</em></p>\n<p><em>Reciba un cordial saludo,</em></p>\n<p><em>Dolores</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777902363199-a5unohnef</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 4: Herramientas para la creación y publicación de contenidos.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 4: Herramientas para la creación y publicación de contenidos.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777902363199-a5unohnef</odePageId>
+      <odeBlockId>block-1777902377648-jlmdr8fun</odeBlockId>
+      <blockName>4.1. Elegimos las herramienta para el producto final</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777902363199-a5unohnef</odePageId>
+          <odeBlockId>block-1777902377648-jlmdr8fun</odeBlockId>
+          <odeIdeviceId>idevice-1777902377644-5hkaif43x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La actividad de este módulo consiste en elegir las <strong>herramientas</strong> que vas a utilizar para llevar a cabo el producto final del proyecto. A continuación, expongo mi propuesta:</p>
+<p><em>Buenas tardes:</em></p>
+<p><em>La situación de aprendizaje que estoy desarrollando está dirigida a un grupo de alumnado de Educación Infantil de 4 años y lleva por título “El tesoro más valioso del Planeta Tierra”. A través de esta propuesta se trabajarán de forma globalizada las tres áreas del currículo.</em></p>
+<p><em>Dado que se trata de alumnado de Infantil, el uso de recursos tecnológicos es necesariamente limitado. Por este motivo, se empleará la Pizarra Digital Interactiva (PDI) del aula como principal medio para realizar actividades de carácter lúdico y de búsqueda de información, siempre en grupo.</em></p>
+<p><em>Para la elaboración del producto final, se utilizarán las siguientes herramientas:</em></p>
+<p><em>Uso del móvil por parte de la docente: permitirá la toma de fotografías y la grabación de vídeos. Con ello se pretende que los niños y niñas participen registrando lo aprendido sobre la temática, favoreciendo la expresión oral y la interacción. Esta herramienta resulta especialmente motivadora, ya que fomenta el aprendizaje de manera dinámica, promoviendo la colaboración y la comunicación entre iguales.</em><br /><em>Kahoot: se trata de una aplicación que facilita la creación de juegos interactivos adaptados al alumnado. Su uso en la PDI permite desarrollar actividades de forma sencilla, guiada y divertida.</em><br /><em>Canva: herramienta que posibilita la creación de diseños visuales atractivos, incorporando imágenes y audios. Ofrece una gran variedad de plantillas que pueden personalizarse, lo que la convierte en un recurso muy útil para captar la atención del alumnado.</em><br /><em>Cabe señalar que estas aplicaciones son intuitivas y accesibles, lo que facilita su utilización tanto en el aula como, con ayuda familiar, en casa.</em></p>
+<p><em>Por último, teniendo en cuenta el nivel inicial de competencia digital del grupo, el objetivo principal será acercar al alumnado a estas herramientas, promoviendo un primer contacto básico con su uso, de manera que puedan familiarizarse con ellas, valorarlas y disfrutar de la experiencia.</em></p>
+<p><em>Un saludo.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777902377644-5hkaif43x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La actividad de este módulo consiste en elegir las <strong>herramientas</strong> que vas a utilizar para llevar a cabo el producto final del proyecto. A continuación, expongo mi propuesta:</p>\n<p><em>Buenas tardes:</em></p>\n<p><em>La situación de aprendizaje que estoy desarrollando está dirigida a un grupo de alumnado de Educación Infantil de 4 años y lleva por título “El tesoro más valioso del Planeta Tierra”. A través de esta propuesta se trabajarán de forma globalizada las tres áreas del currículo.</em></p>\n<p><em>Dado que se trata de alumnado de Infantil, el uso de recursos tecnológicos es necesariamente limitado. Por este motivo, se empleará la Pizarra Digital Interactiva (PDI) del aula como principal medio para realizar actividades de carácter lúdico y de búsqueda de información, siempre en grupo.</em></p>\n<p><em>Para la elaboración del producto final, se utilizarán las siguientes herramientas:</em></p>\n<p><em>Uso del móvil por parte de la docente: permitirá la toma de fotografías y la grabación de vídeos. Con ello se pretende que los niños y niñas participen registrando lo aprendido sobre la temática, favoreciendo la expresión oral y la interacción. Esta herramienta resulta especialmente motivadora, ya que fomenta el aprendizaje de manera dinámica, promoviendo la colaboración y la comunicación entre iguales.</em><br /><em>Kahoot: se trata de una aplicación que facilita la creación de juegos interactivos adaptados al alumnado. Su uso en la PDI permite desarrollar actividades de forma sencilla, guiada y divertida.</em><br /><em>Canva: herramienta que posibilita la creación de diseños visuales atractivos, incorporando imágenes y audios. Ofrece una gran variedad de plantillas que pueden personalizarse, lo que la convierte en un recurso muy útil para captar la atención del alumnado.</em><br /><em>Cabe señalar que estas aplicaciones son intuitivas y accesibles, lo que facilita su utilización tanto en el aula como, con ayuda familiar, en casa.</em></p>\n<p><em>Por último, teniendo en cuenta el nivel inicial de competencia digital del grupo, el objetivo principal será acercar al alumnado a estas herramientas, promoviendo un primer contacto básico con su uso, de manera que puedan familiarizarse con ellas, valorarlas y disfrutar de la experiencia.</em></p>\n<p><em>Un saludo.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777902648332-cl2ienpv9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 5: Herramientas para la organización y la gestión de la información.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 5: Herramientas para la organización y la gestión de la información.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777902648332-cl2ienpv9</odePageId>
+      <odeBlockId>block-1777902658498-j4ex84xt3</odeBlockId>
+      <blockName>Tarea 5.1. Curación de contenido.</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777902648332-cl2ienpv9</odePageId>
+          <odeBlockId>block-1777902658498-j4ex84xt3</odeBlockId>
+          <odeIdeviceId>idevice-1777902658495-4t9maazel</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad, se deben realizar dos enlaces a dos apps diferentes, donde incluyas una recopilación de contenidos que tu alumnado necesitará para realizar el proyecto. En este caso, una de las apps utilizadas ha sido <a href="https://padlet.com/dprihue283_1/sda-del-agua-a48xaxh94r0503la" title="">Padlet</a>. La otra app escogida ha sido <a href="https://www.symbaloo.com/shared/AAAABnLzt9oAA42ADtFYjQ==">Symbaloo</a>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777902658495-4t9maazel","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad, se deben realizar dos enlaces a dos apps diferentes, donde incluyas una recopilación de contenidos que tu alumnado necesitará para realizar el proyecto. En este caso, una de las apps utilizadas ha sido <a href=\"https://padlet.com/dprihue283_1/sda-del-agua-a48xaxh94r0503la\" title=\"\">Padlet</a>. La otra app escogida ha sido <a href=\"https://www.symbaloo.com/shared/AAAABnLzt9oAA42ADtFYjQ==\">Symbaloo</a>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777902942274-wdpxo4la7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 6: Guía Didáctica / Concreción Curricular</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 6: Guía Didáctica / Concreción Curricular</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777902942274-wdpxo4la7</odePageId>
+      <odeBlockId>block-1777902944752-vwh65z85s</odeBlockId>
+      <blockName>6.1. Asociamos tareas a Criterios de Evaluación</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777902942274-wdpxo4la7</odePageId>
+          <odeBlockId>block-1777902944752-vwh65z85s</odeBlockId>
+          <odeIdeviceId>idevice-1777902944749-p5qqn27h0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este <a href="https://docs.google.com/document/d/1aFlgcMvJlkcpz2mAHh_sn-BTIR9TCOImJ69KDUeMi-A/edit?usp=sharing" title="">enlace</a>, podrás encontrar la concreción curricular del proyecto. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777902944749-p5qqn27h0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este <a href=\"https://docs.google.com/document/d/1aFlgcMvJlkcpz2mAHh_sn-BTIR9TCOImJ69KDUeMi-A/edit?usp=sharing\" title=\"\">enlace</a>, podrás encontrar la concreción curricular del proyecto. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777903153704-fgn5oweks</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 7: Organización espacial, temporal y grupal.</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 7: Organización espacial, temporal y grupal.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777903153704-fgn5oweks</odePageId>
+      <odeBlockId>block-1777903156353-fc1p2xrgp</odeBlockId>
+      <blockName>Tarea 7.1. Línea temporal para la organización.</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777903153704-fgn5oweks</odePageId>
+          <odeBlockId>block-1777903156353-fc1p2xrgp</odeBlockId>
+          <odeIdeviceId>idevice-1777903156350-jcadlcczs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad deberás realizar una línea temporal o mapa mental para que el alumnado lo contemple todo de un golpe de vista. Para ello, he realizado la siguiente <a href="https://canva.link/7u9ebmhryrg3km2" title="">infografía</a>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777903156350-jcadlcczs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad deberás realizar una línea temporal o mapa mental para que el alumnado lo contemple todo de un golpe de vista. Para ello, he realizado la siguiente <a href=\"https://canva.link/7u9ebmhryrg3km2\" title=\"\">infografía</a>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777903397424-jbvins7p3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Módulo 8: Evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Módulo 8: Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777903397424-jbvins7p3</odePageId>
+      <odeBlockId>block-1777903550071-jsfwmshon</odeBlockId>
+      <blockName>Tarea 8.1. Elegimos y creamos un instrumento de evaluación</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777903397424-jbvins7p3</odePageId>
+          <odeBlockId>block-1777903550071-jsfwmshon</odeBlockId>
+          <odeIdeviceId>idevice-1777903550068-fyr3e0gtc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta última actividad consiste en elegir los instrumentos de evaluación que necesitaremos para evaluar a nuestro alumnado. Para ello, he creado este <a href="{{context_path}}/content/resources/TAREA 8.1 DOLORES PRIETO HUERTAS (1).pdf" title="TAREA 8.1 DOLORES PRIETO HUERTAS (1).pdf">documento </a>en el que podéis encontrar mi propuesta. </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777903550068-fyr3e0gtc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta última actividad consiste en elegir los instrumentos de evaluación que necesitaremos para evaluar a nuestro alumnado. Para ello, he creado este <a href=\"{{context_path}}/content/resources/TAREA 8.1 DOLORES PRIETO HUERTAS (1).pdf\" title=\"TAREA 8.1 DOLORES PRIETO HUERTAS (1).pdf\">documento </a>en el que podéis encontrar mi propuesta. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777903808420-93v4v4w30</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autorías y créditos.</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autorías y créditos.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777903808420-93v4v4w30</odePageId>
+      <odeBlockId>block-1777903835074-c39pq4l57</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777903808420-93v4v4w30</odePageId>
+          <odeBlockId>block-1777903835074-c39pq4l57</odeBlockId>
+          <odeIdeviceId>idevice-1777903835071-0mv5paav4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Dolores Prieto Huertas</p>
+<p>Descripción: proyecto elaborado para el curso de Competencia Digital Docente B2.</p>
+<p>Licencia: Creative Commons. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777903835071-0mv5paav4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Dolores Prieto Huertas</p>\n<p>Descripción: proyecto elaborado para el curso de Competencia Digital Docente B2.</p>\n<p>Licencia: Creative Commons. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
